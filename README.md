@@ -1,4 +1,4 @@
-# Pizza Sales Dashboard
+# Pizza Sales Performance Dashboard
 
 ## 📚 About Data
 
